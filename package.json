@@ -1,0 +1,22 @@
+{
+  "name": "nb-premiers",
+  "version": "1.0.0",
+  "description": "serveur décomposant un nombre entier naturel non nul en produit de nombres premiers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatimab/nodeDFP.git"
+  },
+  "author": "FatimaChabi AlexandreOuezau AnissaMohammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatimab/nodeDFP/issues"
+  },
+  "homepage": "https://github.com/fatimab/nodeDFP#readme"
+}
