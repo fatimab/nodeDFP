@@ -8,12 +8,13 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fatimab/nodeDFP.git"
   },
-  "author": "FatimaChabi AlexandreOuezau AnissaMohammad",
+  "author": {"FatimaChabi", "AlexandreOuezau", "AnissaMohammad"},
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fatimab/nodeDFP/issues"
