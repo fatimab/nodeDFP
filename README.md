@@ -1,10 +1,10 @@
 # nodeDFP
 décomposition en facteurs premiers NODE JS
 
-Tâches (à se répartir, je me propose [Fatima] pour faire les tests unitaires et la documentation)
+Tâches (à se répartir)
  :
-* init serveur node
-* tests unitaires
-* algorithme de décomposition
+* init serveur node ------ Ok, fait le 28/02 (Fatima)
+* tests unitaires --Fatima
+* algorithme de décomposition --Alexandre
 * gestion réponses url incorrectes
-* rédaction documentation
+* rédaction documentation 
