@@ -67,7 +67,7 @@ exports.decompositionPremier=function (nombre) {
 				else {
 					if(i==tmp) {
 						compteur++;
-						resultat+="^";
+						resultat+="^"+compteur;
 						process.stdout.write("^" + compteur);
 						nombre=1;
 					}
