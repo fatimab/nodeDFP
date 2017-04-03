@@ -7,3 +7,5 @@ Tâches (à se répartir) :
 * algorithme de décomposition
 * gestion réponses url incorrectes
 * rédaction documentation 
+
+Fatima Chabi, Alexandre Ouzeau, Anissa Mohammad
