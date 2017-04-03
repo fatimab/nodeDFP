@@ -1,6 +1,6 @@
 // isPremierDecomposition.js
-
-function isPremier(nombre) {
+var isPremier = exports.isPremier=function(nombre)
+ {
 	var i = 0;
 	for(i=2;i<=nombre;i++) {
 		if(nombre%i==0&&i!=nombre) { // Si le nombre est divisible par un nombre compris entre 2 et nombre-1
