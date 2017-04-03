@@ -3,6 +3,9 @@ var isPremierDecomposition = require("../app/isPremierDecomposition.js");
 var expect = require("chai").expect; //importer la fonction expect du module chai
 
 describe("Vérifie si un nombre est premier. Si oui, retourne que le nombre est premier, si non, le décompose en facteurs premiers", function(){
+  describe("Test url invalide", function(){
+	  
+  });
   describe("Fonction isPremier", function()  {
     it("Teste si 24 est un nombre premier", function(){//explique ce que fait la fonction isPremier
 		var res=isPremierDecomposition.isPremier(24);
